@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/assets/hero.png" alt="LibraryDesk project cover" width="100%"></p>
+<p align="center"><img src="docs/assets/cover.svg" alt="Distinct purple LibraryDesk illustration" width="100%"></p>
 <p align="center"><strong>Offline desktop library management</strong></p>
 <p align="center"><code>Java 21 · JavaFX · CSV</code></p>
 
